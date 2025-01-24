@@ -6,3 +6,7 @@ Bu ders, oyunlaştırma ve artırılmış gerçeklik (AR) teknolojisinin çocuk 
 https://trello.com/b/GyPYptwF/ymgk-project
 
 https://10rca.github.io/ParaKareWebSite/
+
+Nasıl oynanır? ile oyun bilgisi öğrenilebilir.
+Bölümleri birden fazla kez oynayabilirsiniz.
+Oyun skorunuz kaydedilir ve Leaderboard'da görüntülenebilir.
